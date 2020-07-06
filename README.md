@@ -38,3 +38,9 @@ $dbh->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 ```
 $ docker-compose up -d
 ```
+
+## Stop
+
+```
+$ docker-compose down
+```
