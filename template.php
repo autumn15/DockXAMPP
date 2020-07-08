@@ -6,7 +6,7 @@
 </head>
 <boby>
 
-Hello DockXAMPP
+DockXAMPP
 
 </body>
 </html>
